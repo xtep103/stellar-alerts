@@ -1,5 +1,4 @@
 node_modules
-.env
 dist
 build
 .next
@@ -9,3 +8,4 @@ dev.db
 scripts/
 
 apps/**/.env.local
+config.bat
